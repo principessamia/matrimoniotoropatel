@@ -1,5 +1,5 @@
 {
-  "name": "wedding-website",
+  "name": "matrimoniotoropatel",
   "version": "1.0.0",
   "description": "A wedding website with loads of features.",
   "main": "npmfile.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:rampatra/wedding-website.git"
+    "url": "git@github.com:principessamia/matrimoniotoropatel.git"
   },
   "keywords": [
     "wedding",
     "template",
     "website template"
   ],
-  "author": "Ram Patra",
+  "author": "Deeple Patel",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/rampatra/wedding-website",
+  "homepage": "https://github.com/principessamia/matrimoniotoropatel",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
