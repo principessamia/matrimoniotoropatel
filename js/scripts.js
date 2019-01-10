@@ -214,7 +214,7 @@ $(document).ready(function () {
 
         $('#alert-wrapper').html(alert_markup('info', '<strong>Just a sec!</strong> We are saving your details.'));
 
-        $.post('https://formspree.io/valentinadeeple@gmail.com', data)
+        $.post('https://script.google.com/macros/s/AKfycbzR2Oq9nG0n_1X2TJVK0UYXoM-JscQ5ROat4eDFGA/exec', data)
             .done(function (data) {
                 console.log(data);
                 $('#alert-wrapper').html('');
